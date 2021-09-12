@@ -1,0 +1,6 @@
+18:41:24.195 [main] ERROR alphaPackage.Demo - Button did not work
+18:41:24.197 [main] FATAL alphaPackage.Demo - Button is missing
+18:41:53.940 [main] DEBUG betaPackage.Demo1 - I have clicked on button
+18:41:53.945 [main] INFO  betaPackage.Demo1 - Button is displayed
+18:41:53.945 [main] ERROR betaPackage.Demo1 - Button did not work
+18:41:53.945 [main] FATAL betaPackage.Demo1 - Button is missing
